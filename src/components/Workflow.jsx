@@ -1,4 +1,4 @@
-import { CheckCircle } from "../components/Icons";
+import { CheckCircle } from "./Icons";
 import codeImg from "../assets/code.jpg"
 import { checklistItems } from "../constants";
 
