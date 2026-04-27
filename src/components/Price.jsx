@@ -1,4 +1,4 @@
-import { CheckCircle } from "../components/icons";
+import { CheckCircle } from "../components/Icons";
 import { pricingOptions } from "../constants";
 
 const Price = () => {
