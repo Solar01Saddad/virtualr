@@ -5,7 +5,7 @@ import {
   ShieldHalf,
   PlugZap,
   GlobeLock
-} from "../components/icons";
+} from "../components/Icons";
 
 import user1 from "../assets/profile-pictures/user1.jpg";
 import user2 from "../assets/profile-pictures/user2.jpg";
